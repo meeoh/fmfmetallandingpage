@@ -56,7 +56,7 @@
 										wrapper_padding:0,
 										wrapper_color:"transparent",
 										wrapper_opacity:"0",
-										tmp:'<div class="tp-tab-title">{{title}}</div><div class="tp-tab-desc">{{description}}</div>',
+										tmp:'<div class="tp-tab-title">{{title}}</div>',
 										visibleAmount: 4,
 										hide_onmobile: true,
 										hide_under:993,
