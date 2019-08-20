@@ -5980,18 +5980,12 @@ h3 {
 .tp-tab {
   display: flex;
   align-items: center;
+  justify-content: center;
+  padding: 0 !important;
 }
 
 .tp-tab-title {
   margin-top: 0 !important;
-}
-
-.tp-tab-title span {
-  top: -2px;
-}
-
-.tp-tab:nth-child(3) span {
-  top: 8px;
 }
 
 #header-top {
