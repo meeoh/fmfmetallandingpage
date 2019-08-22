@@ -5995,3 +5995,22 @@ h3 {
 .collapse.navbar-collapse.nav_bor_top {
   border-top: 1px solid rgba(0, 0, 0, 0.50);
 }
+
+/* .footer_box_1 p, .footer_box_1 li a, .footer_box_1 li::before {
+  color: black !important;
+} */
+
+.serviceIndustries {
+  padding-left: 25px;
+  list-style: circle;
+}
+
+.serviceIndustries li {
+  margin-top: 40px;
+  font-size: 18px !important;
+  line-height: 25px;
+  margin: 0;
+  color: #5a5a5a;
+  font-family: "Roboto", sans-serif;
+
+}
