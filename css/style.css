@@ -6012,5 +6012,11 @@ h3 {
   margin: 0;
   color: #5a5a5a;
   font-family: "Roboto", sans-serif;
+}
 
+.tempDisable {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: black;
 }
