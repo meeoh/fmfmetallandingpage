@@ -485,7 +485,7 @@ h4 {
 	padding:0;
 	padding-right:20px;
 }
-.cont_office select 
+.cont_office select
 {
     border: 0 !important;  /*Removes border*/
     -webkit-appearance: none;  /*Removes default chrome and safari style*/
@@ -593,7 +593,7 @@ a:active, a:hover {
     position: relative;
     display: inline-block;
 }
-/* 
+/*
 ------- Header Top - 3 Css  ------ */
 #header-top_3 {
   background: transparent;
@@ -1357,7 +1357,7 @@ ul.cart-list .total li {
 	color: #fff;
 }
 /* Button */
-	
+
 .btn-dark:hover{
 	color:#fff;
 	transition: color 1000ms ease 0s, background-color 1500ms ease 0s;
@@ -1467,17 +1467,17 @@ a {
 }
 .tp-tab .tp-tab-title:before{
 }
-.tp-tab:hover .tp-tab-title, .tp-tab.selected .tp-tab-title{ 
-  color:#fff; 
+.tp-tab:hover .tp-tab-title, .tp-tab.selected .tp-tab-title{
+  color:#fff;
 }
-.tp-tab:hover .tp-tab-title > span, .tp-tab.selected .tp-tab-title > span{ 
-  background:#fff; 
+.tp-tab:hover .tp-tab-title > span, .tp-tab.selected .tp-tab-title > span{
+  background:#fff;
 }
-.tp-tab:hover .tp-tab-desc, .tp-tab.selected .tp-tab-desc{ 
-  color:#fff; 
+.tp-tab:hover .tp-tab-desc, .tp-tab.selected .tp-tab-desc{
+  color:#fff;
 }
-.tp-tab:hover .tp-tab-title::before, .tp-tab.selected .tp-tab-title:before{ 
-  background:#fff; 
+.tp-tab:hover .tp-tab-title::before, .tp-tab.selected .tp-tab-title:before{
+  background:#fff;
 }
 .tp-tab:hover .tp-tab-title span{
   background:#fff;
@@ -1752,7 +1752,7 @@ a {
 	background: #fff;
 	margin-top:30px;
 }
-#about_slider .owl-page.active span, 
+#about_slider .owl-page.active span,
 #about_slider .owl-page:hover span {
 	filter: Alpha(Opacity=100);/*IE7 fix*/
 	opacity: 1;
@@ -2126,8 +2126,8 @@ a {
 .recent_tabs .nav-tabs > li.cool-link-2:nth-child(6) a{
   padding-right: 0;
 }
-.recent_tabs .nav-tabs > li.active > a, 
-.recent_tabs .nav-tabs > li.active > a:focus, 
+.recent_tabs .nav-tabs > li.active > a,
+.recent_tabs .nav-tabs > li.active > a:focus,
 .recent_tabs .nav-tabs > li.active > a:hover {
   background-color:transparent;
   border-color:transparent;
@@ -2440,7 +2440,7 @@ a {
   font-size: 18px;
   background:transparent;
 }
-#our_team_3 .owl-prev:hover, 
+#our_team_3 .owl-prev:hover,
 #our_team_3 .owl-next:hover{
 	background:#ededed;
 }
@@ -2845,7 +2845,7 @@ a {
 	background: #111111;
 	margin-top:30px;
 }
-#latest_news-slider .owl-page.active span, 
+#latest_news-slider .owl-page.active span,
 #latest_news-slider .owl-page:hover span {
 	filter: Alpha(Opacity=100);/*IE7 fix*/
 	opacity: 1;
@@ -3122,7 +3122,7 @@ a {
   margin-bottom: 3px;
   border-radius: 50%;
 }
-#map_banner .owl-page.active span, 
+#map_banner .owl-page.active span,
 #map_banner .owl-page:hover span {
   filter: Alpha(Opacity=100);/*IE7 fix*/
   opacity: 1;
@@ -4470,7 +4470,7 @@ a {
  margin-top: -15px;
   font-size: 40px;
   color: #414141;
- 
+
 }
 #cart .table .spinner {
   width: 118px;
@@ -4694,7 +4694,7 @@ a {
 .broker_box > img {
   width: 100%;
 }
-.toggle { 
+.toggle {
 	margin-bottom:12px;
 }
 .toggle .toggle-heading a {
@@ -4727,7 +4727,7 @@ a {
 .toggle .toggle-body {
 	padding: 20px 0 4px;
 }
-.toggle.two .toggle-heading a{ 
+.toggle.two .toggle-heading a{
 	background:#f3f5fa;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
@@ -5197,7 +5197,7 @@ p.testi_head {
   border:1px solid #d9d9d9;
   border-top: none;
   padding-bottom: 30px;
-  padding-right: 25px; 
+  padding-right: 25px;
 }
 a:focus {
   outline:none !important;
@@ -5500,7 +5500,7 @@ h3 {
 .tp-loop-wrap h1 {
   font-size: 48px !important;
   line-height: 48px !important;
-}	
+}
 }
 @media (max-width: 1024px) {
 #recent_project .col-md-7 {
@@ -6019,4 +6019,8 @@ h3 {
   cursor: default;
   text-decoration: none;
   color: black;
+}
+
+#contact_form {
+  margin-top: 24px;
 }
