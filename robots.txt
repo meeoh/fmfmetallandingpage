@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /        # Home page
+Allow: /about_us.html
+Allow: /contact_2.html
