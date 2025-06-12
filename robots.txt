@@ -1,5 +1,13 @@
 User-agent: *
 Disallow: /
-Allow: /        # Home page
+
+# Only allow these specific pages to be indexed
+Allow: /index.html
 Allow: /about_us.html
 Allow: /contact_2.html
+
+# Allow access to necessary resources
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /fonts/
